@@ -63,7 +63,7 @@ A：避免污染系统目录，不需要sudo权限，更适合多用户系统
 3. 添加新功能的测试用例
 
 ## 许可证
-GP - 自由使用和修改
+GNU3.0
 ### 技术说明
 
 1. **安全特性**：
@@ -152,7 +152,7 @@ Welcome to submit your PR! Please ensure:
 3. Add test cases for new functions
 
 "License"
-GP - Free use and modification
+GNU3.0
 Technical Description
 
 1. ** Safety Features ** :
